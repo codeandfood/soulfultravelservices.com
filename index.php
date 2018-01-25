@@ -155,7 +155,7 @@ Surjith S M / @surjithctly
             <div class="row">
                 <div class="band-wrap">
                     <div class="col-md-8 col-md-pull">
-                        <h2 class="section-title">OUR STORY</h2>
+                        <h2 class="section-title">Our Story</h2>
                         <p class="section-subtitle">Founded in Pondicherry by Prasanth Joseph Peairro, the company started in 2016 when we launched our inaugural walking tour under our former name, Soulful Pondy.</p>
                         <p class="section-subtitle-thin">In the next year, we expanded our operations into other destinations and by adding other travel services, Soulful Pondy was renamed Soulful Travel Servces. Since our inception, we have practiced a simple philosophy; to provide high quality activity based tours for small groups of like-minded travelers with a strong alignment to responsible tourism practice and a commitment to supporting local communities at every level of the operation.</p>
                     </div>
@@ -198,7 +198,7 @@ Surjith S M / @surjithctly
                                 <a href="#team-modal-11" data-effect="mfp-zoom-out"><img src="images/team-1.jpg" class="img-responsive" alt="team-1">
                                     <div class="slide-img-title">
                                         <span>CULTURAL ARTS & CRAFTS</span>
-                                        <span class="slide-img-subtitle">The Guitarist</span>
+                                        <!-- <span class="slide-img-subtitle">The Guitarist</span> -->
                                     </div>
                                 </a>
                             </div>
@@ -206,7 +206,7 @@ Surjith S M / @surjithctly
                                 <a href="#team-modal-21" data-effect="mfp-zoom-out"><img src="images/team-2.jpg" class="img-responsive" alt="team-2">
                                     <div class="slide-img-title">
                                         <span>GASTRONOMICAL EXPERIENCES</span>
-                                        <span class="slide-img-subtitle">Female Singer</span>
+                                        <!-- <span class="slide-img-subtitle">Female Singer</span> -->
                                     </div>
                                 </a>
                             </div>
@@ -214,7 +214,7 @@ Surjith S M / @surjithctly
                                 <a href="#team-modal-31" data-effect="mfp-zoom-out"><img src="images/team-3.jpg" class="img-responsive" alt="team-3">
                                     <div class="slide-img-title">
                                         <span>ECO TRAILS</span>
-                                        <span class="slide-img-subtitle">Rock Singer</span>
+                                        <!-- <span class="slide-img-subtitle">Rock Singer</span> -->
                                     </div>
                                 </a>
                             </div>
@@ -222,7 +222,7 @@ Surjith S M / @surjithctly
                                 <a href="#team-modal-11" data-effect="mfp-zoom-out"><img src="images/team-1.jpg" class="img-responsive" alt="team-1">
                                     <div class="slide-img-title">
                                         <span>CUSTOMIZED TOURS & TRAVEL SERVICES</span>
-                                        <span class="slide-img-subtitle">The Guitarist</span>
+                                        <!-- <span class="slide-img-subtitle">The Guitarist</span> -->
                                     </div>
                                 </a>
                             </div>
