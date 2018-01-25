@@ -37,7 +37,7 @@ Surjith S M / @surjithctly
      PAGE LOADING 
      ============================================================ -->
     <div id="page-loader" class="loading-wrap">
-        <span class="loading-text">Souling</span>
+        <span class="loading-text">soulful</span>
         <div class="loading-bars">
             <div class="bar"></div>
             <div class="bar"></div>
