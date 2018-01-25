@@ -77,7 +77,7 @@ Surjith S M / @surjithctly
                     <!-- <li><a href="#album">ALBUMS</a></li> -->
                     <!-- <li><a href="#media">MEDIA</a></li> -->
                     <li><a href="#gallery">Photostories</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#contact">Here</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -1010,8 +1010,10 @@ Surjith S M / @surjithctly
     <footer class="section-padding has-parallax">
         <div class="container">
             <div class="row">
+            <?php
+            /*
                 <div class="col-md-12">
-                    <h2 class="subscribe-title"><span>SUBSCRIBE</span></h2>
+                    <h2 class="subscribe-title"><span>Subscribe</span></h2>
                 </div>
                 <div class="col-md-12 clearfix">
                     <div class="contact-form subscribe-email">
@@ -1034,14 +1036,16 @@ Surjith S M / @surjithctly
                         <img src="images/shape-line.png" class="img-responsive" alt="svg-style-line">
                     </div>
                 </div>
+                */
+               ?>
                 <div class="col-md-12">
                     <div class="social-icons">
                         <ul>
-                            <li><a href="#"><span class="flaticon-social-1 flaticon-sm-shape shape1"></span></a></li>
-                            <li><a href="#"><span class="flaticon-social-media-1 flaticon-sm-shape shape2"></span></a></li>
+                            <li><a href="https://www.facebook.com/soulfultravelservices/"><span class="flaticon-social-1 flaticon-sm-shape shape1"></span></a></li>
+                            <li><a href="https://twitter.com/SoulfulTS"><span class="flaticon-social-media-1 flaticon-sm-shape shape2"></span></a></li>
                             <li><a href="#"><span class="flaticon-social-network-1 flaticon-sm-shape shape3"></span></a></li>
-                            <li><a href="#"><span class="flaticon-social-media flaticon-sm-shape shape4"></span></a></li>
-                            <li><a href="#"><span class="flaticon-social flaticon-sm-shape shape5"></span></a></li>
+                            <!-- <li><a href="#"><span class="flaticon-social-media flaticon-sm-shape shape4"></span></a></li> -->
+                            <!-- <li><a href="#"><span class="flaticon-social flaticon-sm-shape shape5"></span></a></li> -->
                         </ul>
                     </div>
                 </div>
