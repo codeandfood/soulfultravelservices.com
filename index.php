@@ -190,9 +190,11 @@ Surjith S M / @surjithctly
                 <div class="col-md-12">
                     <div class="team-wrap">
                         <h2 class="team-title"><span>Our Specialities</span></h2>
-                        <p class="team-subtitle">
+                        <br>
+                        <br>
+                        <!-- <p class="team-subtitle">
                             We are singers and musicians from the different part of theworld united to make wonderful music experiences for everyone in the world.
-                        </p>
+                        </p> -->
                         <div class="team-slider team-slick">
                             <div>
                                 <a href="#team-modal-11" data-effect="mfp-zoom-out"><img src="images/team-1.jpg" class="img-responsive" alt="team-1">
