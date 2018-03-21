@@ -60,7 +60,9 @@ Surjith S M / @surjithctly
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                     <span class="flaticon-interface"></span>
                 </button>
-                <a class="navbar-brand" href="#" style="padding:0px !important;"><img src="images/logo.jpg" alt="logo" style="width:60px;"></a>
+                <a class="navbar-brand" href="#" style="padding:10px !important;"><img src="images/logo.jpg" alt="logo" style="width:40px;display: -webkit-inline-box;"></a>
+                <span style="font-size:21px; color:#fff; text-transform:uppercase;margin-top: 16px;display: -webkit-inline-box;"> &nbsp; Soulful Travel Services</span>
+                
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -142,6 +144,8 @@ Surjith S M / @surjithctly
     <!--// HEADER END -->
     <!-- ================= ABOUT  ================= -->
     <section class="section-padding about clearfix" id="about">
+        <?php
+        /*
         <!-- Floating Particles -->
         <img src="images/particles/triangle_1.svg" alt="triangle" class="particle pos_a" data-rellax-speed="2" data-rellax-percentage="0.5" />
         <img src="images/particles/triangle_1.svg" alt="triangle" class="particle pos_c" data-rellax-speed="2" data-rellax-percentage="0.5" />
@@ -154,25 +158,41 @@ Surjith S M / @surjithctly
         <div class="container">
             <div class="row">
                 <div class="band-wrap">
-                    <div class="col-md-8 col-md-pull">
-                        <h2 class="section-title">Our Story</h2>
-                        <p class="section-subtitle">Founded in Pondicherry by Prasanth Joseph Peairro, the company started in 2016 when we launched our inaugural walking tour under our former name, Soulful Pondy.</p>
-                        <p class="section-subtitle-thin">In the next year, we expanded our operations into other destinations and by adding other travel services, Soulful Pondy was renamed Soulful Travel Servces. Since our inception, we have practiced a simple philosophy; to provide high quality activity based tours for small groups of like-minded travelers with a strong alignment to responsible tourism practice and a commitment to supporting local communities at every level of the operation.</p>
+                    <div class="col-md-12" style="text-align:center;">
+                        <h2 class="section-title" style="text-transform:uppercase; font-size:30px;">Our Story</h2>
+                        <p class="section-subtitle"></p>
+                        <p class="section-subtitle-thin" style="text-align:justify;">Founded in Pondicherry by Prasanth Joseph Peairro, the company started in 2016 when we launched our inaugural walking tour under our former name, Soulful Pondy. In the next year, we expanded our operations into other destinations and by adding other travel services, Soulful Pondy was renamed Soulful Travel Servces. Since our inception, we have practiced a simple philosophy; to provide high quality activity based tours for small groups of like-minded travelers with a strong alignment to responsible tourism practice and a commitment to supporting local communities at every level of the operation.</p>
                     </div>
                 </div>
             </div>
         </div>
+        */
+        ?>
+
+        <div class="container" style="padding:50px 0px 200px 0px">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="team-wrap">
+                                <h2 class="team-title" style="padding:50px 0px;"><span>Our Story</span></h2>
+                                <p class="team-subtitle" style="line-height:2;">
+                                    Founded in Pondicherry by Prasanth Joseph Peairro, the company started in 2016 when we launched our inaugural walking tour under our former name, Soulful Pondy. In the next year, we expanded our operations into other destinations and by adding other travel services, Soulful Pondy was renamed Soulful Travel Servces. Since our inception, we have practiced a simple philosophy; to provide high quality activity based tours for small groups of like-minded travelers with a strong alignment to responsible tourism practice and a commitment to supporting local communities at every level of the operation.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
     </section>
     <!--// ABOUT END -->
 
     <!-- ================= WHY US ================= -->
     <section class="section-padding team clearfix has-parallax" id="whyus">
-        <div class="container">
+        <div class="container" style="padding:50px 0px 200px 0p"x>
             <div class="row">
                 <div class="col-md-12">
                     <div class="team-wrap">
-                        <h2 class="team-title"><span>Why Us</span></h2>
-                        <p class="team-subtitle">
+                        <h2 class="team-title" style="padding:50px 0px;"><span>Why Us</span></h2>
+                        <p class="team-subtitle" style="line-height:2;">
                             We are a team of experienced tourism professionals who have spent extensive time traveling and living in other places in India. In creating our plans, we bring the native South India’s perspective while still maintaining an awareness of the foreign travelers’ mindset. We believe it is important to retain a firm understanding of the various layers and nuances of South Indian culture, and discover ways to present these complexities in a meaningful way to foreign visitors, facilitating a gateway so that our guests can enjoy the best that South India has to offer.
 
                         </p>
@@ -185,7 +205,7 @@ Surjith S M / @surjithctly
 
     <!-- ================= OUR SPECIALITIES ================= -->
     <section class="section-padding our-clients clearfix has-parallax" id="team">
-        <div class="container">
+        <div class="container" style="padding:50px 0px 200px 0px">
             <div class="row">
                 <div class="col-md-12">
                     <div class="team-wrap">
@@ -197,33 +217,28 @@ Surjith S M / @surjithctly
                         </p> -->
                         <div class="team-slider team-slick">
                             <div>
-                                <a href="#team-modal-11" data-effect="mfp-zoom-out"><img src="images/team-1.jpg" class="img-responsive" alt="team-1">
+                                <a href="#team-modal-11" data-effect="mfp-zoom-out" style="background-image: url(https://i.ytimg.com/vi/b8fOr4mbCzk/maxresdefault.jpg);">
+                                <!-- <img src="images/team-1.jpg" class="img-responsive" alt="team-1"> -->
                                     <div class="slide-img-title">
-                                        <span>CULTURAL ARTS & CRAFTS</span>
+                                        <span>cultural experiences</span>
                                         <!-- <span class="slide-img-subtitle">The Guitarist</span> -->
                                     </div>
                                 </a>
                             </div>
                             <div>
-                                <a href="#team-modal-21" data-effect="mfp-zoom-out"><img src="images/team-2.jpg" class="img-responsive" alt="team-2">
+                                <a href="#team-modal-21" data-effect="mfp-zoom-out" style="background-image: url(images/gastronomical_experiences.jpg);">
+                                <!-- <img src="images/gastronomical_experiences.jpg" class="img-responsive" alt="team-2"> -->
                                     <div class="slide-img-title">
-                                        <span>GASTRONOMICAL EXPERIENCES</span>
+                                        <span>gastronomical experiences</span>
                                         <!-- <span class="slide-img-subtitle">Female Singer</span> -->
                                     </div>
                                 </a>
                             </div>
                             <div>
-                                <a href="#team-modal-31" data-effect="mfp-zoom-out"><img src="images/team-3.jpg" class="img-responsive" alt="team-3">
+                                <a href="#team-modal-11" data-effect="mfp-zoom-out" style="background-image: url(images/cultural.jpg);">
+                                <!-- <img src="images/team-1.jpg" class="img-responsive" alt="team-1"> -->
                                     <div class="slide-img-title">
-                                        <span>ECO TRAILS</span>
-                                        <!-- <span class="slide-img-subtitle">Rock Singer</span> -->
-                                    </div>
-                                </a>
-                            </div>
-                            <div>
-                                <a href="#team-modal-11" data-effect="mfp-zoom-out"><img src="images/team-1.jpg" class="img-responsive" alt="team-1">
-                                    <div class="slide-img-title">
-                                        <span>CUSTOMIZED TOURS & TRAVEL SERVICES</span>
+                                        <span>customized tours & travel services</span>
                                         <!-- <span class="slide-img-subtitle">The Guitarist</span> -->
                                     </div>
                                 </a>
@@ -1051,11 +1066,11 @@ Surjith S M / @surjithctly
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-12">
+                <!-- <div class="col-md-12">
                     <div class="shape-line">
                         <img src="images/shape-line.png" class="img-responsive" alt="svg-style-line">
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-12">
                     <div class="address">
                         <h4>Soulful Travel Services</h4>
