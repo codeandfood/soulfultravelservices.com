@@ -84,7 +84,7 @@ p {
   margin: 23px 0; }
 
 .btn-default {
-  background: #4e75f8;
+  background: #0f5d6d;
   color: #fff;
   border-radius: 30px;
   padding: 17px 48px;
@@ -588,7 +588,7 @@ fieldset[disabled] .btn-default:hover {
       border: none; }
 
 .menu-is-scrolling {
-  background: rgba(1, 13, 94, 0.94);
+  background: rgb(15, 93, 109);
   padding: 5px 0; }
 
 .navbar-default .navbar-nav {
@@ -1859,7 +1859,7 @@ header:before {
   margin: 0 auto; }
 
 .form-control:focus {
-  border-color: #4e75f8;
+  border-color: #3990a2;
   -webkit-box-shadow: none;
   box-shadow: none; }
 
@@ -1868,8 +1868,8 @@ header:before {
   float: left;
   border-radius: 0;
   padding: 13px 22px;
-  border: 3px solid #577cf7;
-  color: #4e75f8;
+  border: 3px solid #0f5d6d;
+  color: #0f5d6d;
   font-size: 20px;
   height: auto; }
 
@@ -1877,35 +1877,35 @@ header:before {
   border-right: 0px !important; }
 
 .form-width::-webkit-input-placeholder {
-  color: #4e75f8; }
+  color: #0f5d6d; }
 
 .form-width:-ms-input-placeholder {
-  color: #4e75f8; }
+  color: #0f5d6d; }
 
 .form-control::-moz-placeholder {
-  color: #4e75f8;
+  color: #0f5d6d;
   opacity: 1; }
 
 textarea.form-comments {
   width: 100%;
   border-radius: 0;
   padding: 26px 22px;
-  border-left: 3px solid #577cf7;
-  border-right: 3px solid #577cf7;
-  border-bottom: 3px solid #577cf7;
+  border-left: 3px solid #0f5d6d;
+  border-right: 3px solid #0f5d6d;
+  border-bottom: 3px solid #0f5d6d;
   border-top: 0;
-  color: #4e75f8;
+  color: #0f5d6d;
   height: 228px;
   font-size: 20px; }
 
 .form-comments::-webkit-input-placeholder {
-  color: #4e75f8; }
+  color: #0f5d6d; }
 
 .form-comments:-ms-input-placeholder {
-  color: #4e75f8; }
+  color: #0f5d6d; }
 
 .form-comments::-moz-placeholder {
-  color: #4e75f8; }
+  color: #0f5d6d; }
 
 .form-control.has-error,
 .form-control.has-error::-webkit-input-placeholder {
@@ -3175,7 +3175,7 @@ textarea.form-single {
     bottom: -6px; }
   .form-width {
     width: 100% !important;
-    border-right: 3px solid #577cf7 !important;
+    border-right: 3px solid #0f5d6d !important;
     font-size: 14px;
     padding: 22px 10px; }
     .form-width .img-rotation li img {

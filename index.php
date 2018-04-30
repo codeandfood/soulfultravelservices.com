@@ -17,7 +17,8 @@ Surjith S M / @surjithctly
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Soulful Travel Services</title>
-    <meta name="description" content="Duotone is a Music and Band Website Template created with HTML5, CSS3 and jQuery." />
+    <meta name="description" content="Soulful Travel Services is a Destination Management Company and local experiences
+provider founded in the year 2016 in Pondicherry, India," />
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900%7CMontserrat:400,500,700" rel="stylesheet" type="text/css">
     <!-- Bootstrap -->
@@ -36,7 +37,7 @@ Surjith S M / @surjithctly
     <!-- ============================================================
      PAGE LOADING 
      ============================================================ -->
-    <div id="page-loader" class="loading-wrap">
+    <!-- <div id="page-loader" class="loading-wrap">
         <span class="loading-text">soulful</span>
         <div class="loading-bars">
             <div class="bar"></div>
@@ -50,7 +51,7 @@ Surjith S M / @surjithctly
             <div class="bar"></div>
             <div class="bar"></div>
         </div>
-    </div>
+    </div> -->
 
     <!-- ================= HEADER ================= -->
     <nav class="navbar navbar-default navbar-fixed-top js-on-scroll">
@@ -73,13 +74,14 @@ Surjith S M / @surjithctly
                 </div>
                 <ul class="nav navbar-nav navbar-right toggle-menu">
                     <li><a href="#top">Home </a></li>
-                    <li><a href="#about">Story</a></li>
+                    <li><a href="#about">About Us</a></li>
                     <li><a href="#whyus">Why Us</a></li>
-                    <li><a href="#events">Experiences</a></li>
+                    <li><a href="#team">Our Services</a></li>
+                    <!-- <li><a href="#events">Experiences</a></li> -->
                     <!-- <li><a href="#album">ALBUMS</a></li> -->
                     <!-- <li><a href="#media">MEDIA</a></li> -->
-                    <li><a href="#gallery">Photostories</a></li>
-                    <li><a href="#contact">Here</a></li>
+                    <!-- <li><a href="#gallery">Photostories</a></li> -->
+                    <li><a href="#contact">Contact Us</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -89,6 +91,8 @@ Surjith S M / @surjithctly
     <!-- ============================================================
          Header Slider
          ============================================================ -->
+         <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+
     <header class="slider-bg has-parallax" id="slider">
         <div class="container">
             <div class="row">
@@ -96,9 +100,14 @@ Surjith S M / @surjithctly
                     <div class="slider-wrap">
                         <div class="header-slider">
                             <div class="header-slide">
-                                <!-- <h2 style="color:#000;">
-                                We create unforgettable immersive cultural experiences in south india
-                                </h2> -->
+                                <h2 style1="color:#fff; font-size:25px;text-shadow: 2px 2px 10px #000; margin-top:100px; text-align:center;" style="color: #fde8d9;
+    font-size: 25px;
+    text-shadow: 2px 2px 10px #5c626d;
+    margin-top: 100px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;">
+                                "WE CREATE UNFORGETTABLE IMMERSIVE CULTURAL EXPERIENCES IN INDIA"
+                                </h2>
                                 <!-- <div class="hero-wrap">
                                     <div class="no-overflow">
                                         <div class="hero-block">
@@ -173,9 +182,20 @@ Surjith S M / @surjithctly
                     <div class="row">
                         <div class="col-md-12">
                             <div class="team-wrap">
-                                <h2 class="team-title" style="padding:50px 0px;"><span>Our Story</span></h2>
+                                <h2 class="team-title" style="padding:50px 0px;"><span>About Us</span></h2>
                                 <p class="team-subtitle" style="line-height:2;">
-                                    Founded in Pondicherry by Prasanth Joseph Peairro, the company started in 2016 when we launched our inaugural walking tour under our former name, Soulful Pondy. In the next year, we expanded our operations into other destinations and by adding other travel services, Soulful Pondy was renamed Soulful Travel Servces. Since our inception, we have practiced a simple philosophy; to provide high quality activity based tours for small groups of like-minded travelers with a strong alignment to responsible tourism practice and a commitment to supporting local communities at every level of the operation.
+                                    Soulful Travel Services is a Destination Management Company and local experiences
+                                    provider founded in the year 2016 in Pondicherry, India.
+                                    <br><br>
+                                    Soulful offers tailor-made tours, local experiences &amp; destination management services in
+                                    India to overseas tour companies, individual travelers, educational &amp; cultural organizations
+                                    and other academy’s visiting India.
+                                    <br><br>
+                                    Our team with in-depth knowledge specializes in offering customized travel experiences to
+                                    explore the unseen sides and our interests in travel range from private travel to small
+                                    group travel and from short breaks to multi-activity tours and you are encouraged to plan
+                                    your time and activity as you like. We also offer suggested itineraries to help you to enjoy
+                                    to the fullest.
                                 </p>
                             </div>
                         </div>
@@ -193,7 +213,11 @@ Surjith S M / @surjithctly
                     <div class="team-wrap">
                         <h2 class="team-title" style="padding:50px 0px;"><span>Why Us</span></h2>
                         <p class="team-subtitle" style="line-height:2;">
-                            We are a team of experienced tourism professionals who have spent extensive time traveling and living in other places in India. In creating our plans, we bring the native South India’s perspective while still maintaining an awareness of the foreign travelers’ mindset. We believe it is important to retain a firm understanding of the various layers and nuances of South Indian culture, and discover ways to present these complexities in a meaningful way to foreign visitors, facilitating a gateway so that our guests can enjoy the best that South India has to offer.
+                            We love to talk and show the different faces of India. In creating our plans, we bring the native
+                            India’s perspective while still maintaining an awareness of the travelers’ mindset. We believe it
+                            is important to retain a firm understanding of the various layers and nuances of Indian culture,
+                            and discover ways to present these complexities in a meaningful way to foreign visitors,
+                            facilitating a gateway so that our guests can enjoy the best that India has to offer.
 
                         </p>
                     </div>
@@ -209,7 +233,7 @@ Surjith S M / @surjithctly
             <div class="row">
                 <div class="col-md-12">
                     <div class="team-wrap">
-                        <h2 class="team-title"><span>Our Specialities</span></h2>
+                        <h2 class="team-title"><span>Our Services</span></h2>
                         <br>
                         <br>
                         <!-- <p class="team-subtitle">
@@ -220,25 +244,25 @@ Surjith S M / @surjithctly
                                 <a href="#team-modal-11" data-effect="mfp-zoom-out" style="background-image: url(https://i.ytimg.com/vi/b8fOr4mbCzk/maxresdefault.jpg);">
                                 <!-- <img src="images/team-1.jpg" class="img-responsive" alt="team-1"> -->
                                     <div class="slide-img-title">
-                                        <span>cultural experiences</span>
+                                        <span>Tailor-Made Tours</span>
                                         <!-- <span class="slide-img-subtitle">The Guitarist</span> -->
                                     </div>
                                 </a>
                             </div>
                             <div>
-                                <a href="#team-modal-21" data-effect="mfp-zoom-out" style="background-image: url(images/gastronomical_experiences.jpg);">
+                                <a href="#team-modal-21" data-effect="mfp-zoom-out" style="background-image: url(images/special_interest.jpg);">
                                 <!-- <img src="images/gastronomical_experiences.jpg" class="img-responsive" alt="team-2"> -->
                                     <div class="slide-img-title">
-                                        <span>gastronomical experiences</span>
+                                        <span>Special Interest Tours</span>
                                         <!-- <span class="slide-img-subtitle">Female Singer</span> -->
                                     </div>
                                 </a>
                             </div>
                             <div>
-                                <a href="#team-modal-11" data-effect="mfp-zoom-out" style="background-image: url(images/cultural.jpg);">
+                                <a href="#team-modal-11" data-effect="mfp-zoom-out" style="background-image: url(images/educational_tours.jpg);">
                                 <!-- <img src="images/team-1.jpg" class="img-responsive" alt="team-1"> -->
                                     <div class="slide-img-title">
-                                        <span>customized tours & travel services</span>
+                                        <span>Educational Tours</span>
                                         <!-- <span class="slide-img-subtitle">The Guitarist</span> -->
                                     </div>
                                 </a>
@@ -497,6 +521,8 @@ Surjith S M / @surjithctly
   }
 }';
     ?>
+    <?php
+    /*
     <section class="section-padding event has-parallax" id="events">
         <div class="container">
             <div class="row">
@@ -619,6 +645,8 @@ Surjith S M / @surjithctly
             </div>
         </div>
     </section>
+    */
+    ?>
     <!--// EVENT END -->
 
     <?php
@@ -694,7 +722,7 @@ Surjith S M / @surjithctly
             <div class="row">
                 <div class="col-md-12">
                     <h2 class="media-title"><span>MEDIA</span></h2>
-                    <p class="media-subtitle">A curated selection of best songs from duotone. Listen and enjoy these album songs. It contains audios from mp3, soundcloud and spotify. Let’s play!</p>
+                    <p class="media-subtitle">A curated selection of best songs from . Listen and enjoy these album songs. It contains audios from mp3, soundcloud and spotify. Let’s play!</p>
                 </div>
                 <div class="btn-position">
                     <div class="tab-position">
@@ -851,6 +879,8 @@ Surjith S M / @surjithctly
     <!--// MEDIA END -->
     */?>
     <!-- ================= PHOTOS ================= -->
+    <?php
+    /*
     <section class="section-padding photos" id="gallery">
         <img src="images/particles/triangle_1.svg" alt="triangle" class="particle pos_f" data-rellax-speed="3" data-rellax-percentage="0.5" />
         <img src="images/particles/triangle_4.svg" alt="triangle" class="particle pos_d" data-rellax-speed="1" data-rellax-percentage="0.5" />
@@ -903,6 +933,8 @@ Surjith S M / @surjithctly
         </div>
     </section>
     <!--// PHOTOS END -->
+    */
+    ?>
 
     <?php
     /*
@@ -990,7 +1022,7 @@ Surjith S M / @surjithctly
     */?>
     <!-- ================= CONTACT ================= -->
     <section class="section-padding contact" id="contact">
-        <!-- Floating Particles -->
+        <!-- Floating Particles --
         <img src="images/particles/triangle_1.svg" alt="triangle" class="particle pos_a" data-rellax-speed="2" data-rellax-percentage="0.5" />
         <img src="images/particles/triangle_1.svg" alt="triangle" class="particle pos_c" data-rellax-speed="2" data-rellax-percentage="0.5" />
         <img src="images/particles/triangle_4.svg" alt="triangle" class="particle pos_d" data-rellax-speed="1" data-rellax-percentage="0.5" />
@@ -998,11 +1030,13 @@ Surjith S M / @surjithctly
         <img src="images/particles/circle_1.svg" alt="circle" class="particle pos_f" data-rellax-speed="4" data-rellax-percentage="0.5" />
         <img src="images/particles/circle_2.svg" alt="circle" class="particle pos_g" data-rellax-speed="2" data-rellax-percentage="0.5" />
         <img src="images/particles/circle_5.svg" alt="circle" class="particle pos_j" data-rellax-speed="1" data-rellax-percentage="0.5" />
+        -->
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="contact-title"><span>Reserve Here</span></h2>
-                    <p class="contact-subtitle">Thank you for visiting our website. To receive our price list and to book our experiences, please sign up. Filling out the form should take less than a minute. </p>
+                    <!-- <h2 class="contact-title"><span>Contact Us</span></h2> -->
+                    <h2 class="team-title" style="padding:50px 0px;"><span>Contact Us</span></h2>
+                    <!-- <p class="contact-subtitle">Thank you for visiting our website. To receive our price list and to book our experiences, please sign up. Filling out the form should take less than a minute. </p> -->
                 </div>
                 <div class="col-md-12">
                     <div class="contact-form">
@@ -1012,7 +1046,7 @@ Surjith S M / @surjithctly
                             <input type="email" id="email" name="email" class="form-control form-width" placeholder="Your Email" required="">
                             <textarea class="form-control form-comments" id="message" name="message" placeholder="Your Message" required=""></textarea>
                             <div class="btn-wrap">
-                                <button type="submit" class="btn btn-default" id="js-contact-btn"> Send Peace </button>
+                                <button type="submit" class="btn btn-default" id="js-contact-btn">Submit</button>
                             </div>
                             <div id="js-contact-result" data-success-msg="Success! We've received your email." data-error-msg="Oops! Something went wrong, Email: mail@mywebsite.com"></div>
                             <!-- // end #js-contact-result -->
@@ -1076,7 +1110,7 @@ Surjith S M / @surjithctly
                         <h4>Soulful Travel Services</h4>
                         <span>97,1st floor, Eswaran koil st,
 Pondichéry, Puducherry, India</span>
-                        <h4>+91 979 034 4873</h4>
+                        <h4>+91 733 916 3880</h4>
                         <span>soulfultravelservices@gmail.com</span>
                     </div>
                 </div>
